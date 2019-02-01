@@ -9,7 +9,8 @@ Categorize customers to help merchants to offer promotions or discounts to cardh
 
 ### Data:
 
-Data is available on Kaggle: [link to Kaggle Competition](https://www.kaggle.com/c/elo-merchant-category-recommendation/data)
+Data is available on Kaggle: [link to Kaggle Competition](https://www.kaggle.com/c/elo-merchant-category-recommendation/data).
+
 All data is simulated and fictitious, and is not real customer data. 
 
 ##### Data File Descriptions: 
